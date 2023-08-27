@@ -1,0 +1,405 @@
+{
+  "horarios": [
+    {
+      "dias": "Martes, Jueves, Sábado",
+      "horario": "Horario Vespertino - 3:00 PM a 11:00 PM",
+      "rutas": [
+        {
+          "nombre": "Ruta 1",
+          "destinos": [
+            "Zona Centro",
+            "Cuauhtémoc",
+            "Petrolera",
+            "Renovación VII",
+            "Real del Carmen",
+            "Villa Magna",
+            "Villa Girasol",
+            "San Joaquín",
+            "Nacozari",
+            "Hacienda Dorada",
+            "Fracc. Libertad I y II",
+            "Fracc. Héroes de Nacozari I y II",
+            "Esperanza I y II"
+          ]
+        },
+        {
+          "nombre": "Ruta 2",
+          "destinos": [
+            "Lagos",
+            "Mundo Maya",
+            "Mercados y Rastro (23:99 HR menos Jueves)"
+          ]
+        },
+        {
+          "nombre": "Ruta 3",
+          "destinos": [
+            "Renovación 1, 2 y 3",
+            "Bivalbo",
+            "Potrero"
+          ]
+        },
+        {
+          "nombre": "Ruta 4",
+          "destinos": [
+            "Av. 31, 35, 26, 47",
+            "Periférica Norte",
+            "Camarón",
+            "Castellot, Corregidora",
+            "Aviación 55, 56",
+            "10 de Julio",
+            "Prolongación",
+            "Periférica 25, 21 de Abril, 40",
+            "Contadores",
+            "Puerto Progreso",
+            "Paseo del Mar al Puerto Pesquero",
+            "Av. Puerto de Campeche"
+          ]
+        },
+        {
+          "nombre": "Ruta 5",
+          "destinos": [
+            "Reforma",
+            "Raíces",
+            "Lepavides",
+            "Mediterráneo",
+            "Villas del Carmen",
+            "Reforma 57"
+          ]
+        },
+        {
+          "nombre": "Ruta 6",
+          "destinos": [
+            "Volcanes",
+            "Colosio",
+            "Las Pilas",
+            "Plutarco",
+            "Hacienda del Mar",
+            "18 de Marzo",
+            "Calle Ancha",
+            "Parte de la Av. Belisario"
+          ]
+        },
+        {
+          "nombre": "Ruta 7",
+          "destinos": [
+            "Constelaciones 1 y 2",
+            "Santa Rita 1 y 2",
+            "Residencial del Carmen",
+            "Orizaba",
+            "Compositores",
+            "Las Esperanzas",
+            "Pared del Aeropuerto y parte de la Av. Belisario"
+          ]
+        },
+        {
+          "nombre": "Ruta 8",
+          "destinos": [
+            "Solidaridad",
+            "Belisario",
+            "Puesta del Sol",
+            "Bicentenario 1, 2 y 3",
+            "Parte de la Av. Belisario y Fracc. Villa del Mar"
+          ]
+        }
+      ]
+    },
+    {
+      "dias": "Martes, Jueves, Sábado",
+      "horario": "Horario Matutino - 7:00 AM a 3:00 PM",
+      "rutas": [
+        {
+          "nombre": "Ruta 1",
+          "destinos": [
+            "Villas San José",
+            "Villas Santa Ana",
+            "Santa Cecilia",
+            "San Román"
+          ]
+        },
+        {
+          "nombre": "Ruta 2",
+          "destinos": [
+            "Maderas",
+            "Isla del Carmen",
+            "Puente de la Unidad",
+            "San Nicolás",
+            "Avenida Nardos"
+          ]
+        },
+        {
+          "nombre": "Ruta 3",
+          "destinos": [
+            "Perla del Golfo",
+            "Ortiz Avila",
+            "Tierra y Libertad",
+            "Playa Palmas",
+            "Ampliación San Nicolás",
+            "Potrero"
+          ]
+        },
+        {
+          "nombre": "Ruta 4",
+          "destinos": [
+            "San Manuel",
+            "Fracc. Palmira",
+            "Las Huertas",
+            "Arcila",
+            "Los Ríos",
+            "Los Arcos 1 y 2",
+            "La Rivera",
+            "San Francisco",
+            "Av. Nardos"
+          ]
+        },
+        {
+          "nombre": "Ruta 5",
+          "destinos": [
+            "Privada Rinconada",
+            "San Carlos",
+            "Obrera",
+            "Misión del Carmen",
+            "Nueva Esperanza",
+            "Av. Boquerón del Palmar",
+            "Pared del Aeropuerto"
+          ]
+        },
+        {
+          "nombre": "Ruta 6",
+          "destinos": [
+            "Rafael Lozano",
+            "San Miguel",
+            "Villa del Mar",
+            "Villa Florencia",
+            "Encantada",
+            "Anegelespuerta de Hierro",
+            "Dorado",
+            "Santa Isabel",
+            "Santa Ágata 1",
+            "Av. Parque Central"
+          ]
+        },
+        {
+          "nombre": "Ruta 7",
+          "destinos": [
+            "Santa Mónica",
+            "Los Maestros",
+            "Capistrano",
+            "23 de Julio",
+            "Av. Puerto Progreso"
+          ]
+        }
+      ]
+    },
+    {
+      "dias": "Martes, Jueves, Sábado",
+      "horario": "Horario Matutino - 7:00 AM a 2:00 PM",
+      "rutas": [
+        {
+          "nombre": "Ruta 8",
+          "destinos": [
+            "Av. 35, 26, 40",
+            "Periférica Sur",
+            "Aviación",
+            "C. 55, 56",
+            "Prolongación Periférica",
+            "Puerto Pesquero",
+            "Concordia",
+            "Periférica Norte",
+            "Camarón",
+            "Castellot"
+          ]
+        }
+      ]
+    },
+    {
+      "dias": "Lunes, Miércoles, Viernes",
+      "horario": "Horario Vespertino - 3:00 PM a 11:00 PM",
+      "rutas": [
+        {
+          "nombre": "Ruta 1",
+          "destinos": [
+            "Zona Centro",
+            "Cuauhtémoc",
+            "Petrolera",
+            "Fovisste",
+            "Edif. de Doña Nicha",
+            "Edif. Las Brisas",
+            "Tecolutla",
+            "San Agustín del Palmar",
+            "Aviación"
+          ]
+        },
+        {
+          "nombre": "Ruta 2",
+          "destinos": [
+            "Villa Conejos",
+            "Fracc. San Joaquín (Calle San Román)",
+            "Villas del Carmen",
+            "Villa Girasoles",
+            "Brisas del Mar",
+            "Fracc. Las Palmas",
+            "Mercados y Rastro"
+          ]
+        },
+        {
+          "nombre": "Ruta 3",
+          "destinos": [
+            "Francisco I Madero",
+            "Pedro Sainz",
+            "Estrella de Noche"
+          ]
+        },
+        {
+          "nombre": "Ruta 4",
+          "destinos": [
+            "Av. 31, 35, 26, 47",
+            "Periférica Norte",
+            "Camarón",
+            "Castellot",
+            "Corregidora",
+            "Aviación",
+            "C. 55, 56",
+            "10 de Julio",
+            "Prolongación",
+            "Periférica",
+            "C. 25",
+            "21 de Abril",
+            "C. 40",
+            "Contadores",
+            "Puerto Progreso",
+            "Paseo del Mar al Puerto Pesquero",
+            "Av. Justo Sierra",
+            "Av. Puerto de Campeche"
+          ]
+        },
+        {
+          "nombre": "Ruta 5",
+          "destinos": [
+            "Puntilla",
+            "Guadalupe",
+            "Guanal",
+            "20 de Noviembre",
+            "Fracc. Las Campanas"
+          ]
+        },
+        {
+          "nombre": "Ruta 6",
+          "destinos": [
+            "Pallas",
+            "Tila",
+            "Calle 53A, 53B, 53C"
+          ]
+        },
+        {
+          "nombre": "Ruta 7",
+          "destinos": [
+            "Fátima 31B",
+            "Fracc. Justo Sierra",
+            "Parte de la Justo Sierra (Calle Piraña, Camarón y aledañas)"
+          ]
+        },
+        {
+          "nombre": "Ruta 8",
+          "destinos": [
+            "Lomas de Holche",
+            "Camaroneros",
+            "Carmen 2000",
+            "Tacubaya",
+            "Calle 37, 17A. 38",
+            "19 hasta la 25 y aledañas, 50A",
+            "Parte de la 35A (atrás del Dif. hasta la 56)"
+          ]
+        }
+      ]
+    },
+    {
+      "dias": "Lunes, Miércoles, Viernes",
+      "horario": "Horario Matutino - 7:00 AM a 3:00 PM",
+      "rutas": [
+        {
+          "nombre": "Ruta 1",
+          "destinos": [
+            "Justo Sierra",
+            "Morelos"
+          ]
+        },
+        {
+          "nombre": "Ruta 2",
+          "destinos": [
+            "Santa Margarita",
+            "Pérez Martínez",
+            "Caleta",
+            "Electricistas"
+          ]
+        },
+        {
+          "nombre": "Ruta 3",
+          "destinos": [
+            "Playa Norte",
+            "Miami",
+            "Caballito de Mar",
+            "Flamboyanes",
+            "Revolución",
+            "Burócratas",
+            "Playón",
+            "Av. Castellot"
+          ]
+        },
+        {
+          "nombre": "Ruta 4",
+          "destinos": [
+            "Santa Rosalía",
+            "Malibrán",
+            "Independencia",
+            "Insurgentes"
+          ]
+        },
+        {
+          "nombre": "Ruta 5",
+          "destinos": [
+            "Manigua (Arroyo de los Franceses)",
+            "Emiliano Zapata"
+          ]
+        },
+        {
+          "nombre": "Ruta 6",
+          "destinos": [
+            "Caracol",
+            "Av. Isla de Tris",
+            "Miguel de la Madrid"
+          ]
+        },
+        {
+          "nombre": "Ruta 7",
+          "destinos": [
+            "Benito Juárez",
+            "Estrella",
+            "Limonar",
+            "Salitral"
+          ]
+        }
+      ]
+    },
+    {
+      "dias": "Lunes, Miércoles, Viernes",
+      "horario": "Horario Matutino - 7:00 AM a 2:00 PM",
+      "rutas": [
+        {
+          "nombre": "Ruta 8",
+          "destinos": [
+            "Av. 35, 26, 40",
+            "Periférica Sur",
+            "Aviación",
+            "C. 55, 56",
+            "Prolongación Periférica",
+            "Puesto Pesquero",
+            "Concordia",
+            "Periférica Norte",
+            "Camarón",
+            "Castellot"
+          ]
+        }
+      ]
+    }
+  ]
+}
